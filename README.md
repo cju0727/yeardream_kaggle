@@ -3,4 +3,3 @@
 - Tree 기반의 머신러닝 모델을 사용하여 금융 데이터를 다뤄봅니다.
 - CNN 기반의 다양한 모델(resnet, densenet, vggnet 등)을 사용하여 이미지 데이터를 다뤄봅니다.
 - RNN 기반의 다양한 모델(rnn, lstm, prophet 등)을 사용하여 시계열 데이터를 다뤄봅니다.
-- Transformer 기반의 다양한 모델(bert, electra)을 사용하여 자연어 데이터를 다뤄봅니다.
